@@ -1,14 +1,14 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-04 10:44:01
- * @LastEditTime: 2020-12-08 18:07:11
+ * @LastEditTime: 2020-12-08 18:08:52
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \adminpro\src\views\Home.vue
 -->
 <template>
   <div class="box">
-    
+    222
     <demo1 class="item"/>
     <demo2 class="item"/>
     <demo3 class="item"/>
