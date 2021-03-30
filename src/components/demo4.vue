@@ -1,14 +1,17 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-08 11:22:30
- * @LastEditTime: 2021-03-30 12:03:17
+ * @LastEditTime: 2021-03-30 12:13:18
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \adminpro\src\components\demo4.vue
 -->
 <template>
     <div>
+
         <div class="poptip btn" aria-controls="弹出气泡">1111</div>
+
+        <div class="poptip btn" aria-controls="弹出气泡">222</div>
     </div>
 </template>
 
