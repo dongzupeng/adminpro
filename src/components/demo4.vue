@@ -8,7 +8,7 @@
 -->
 <template>
     <div>
-        <div class="poptip btn" aria-controls="弹出气泡">poptip</div>
+        <div class="poptip btn" aria-controls="弹出气泡">222</div>
     </div>
 </template>
 
